@@ -1,0 +1,7 @@
+{
+  "name": "OmniVendor - Multi-Vendor Ecommerce Platform",
+  "description": "A comprehensive multi-vendor marketplace featuring dedicated dashboards for Admins, Sellers, and Buyers with full order processing, inventory management, and role-based access control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
